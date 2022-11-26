@@ -9,7 +9,7 @@ This is a web based application developed for health related telugu based websit
 
 #project demo link:https://gray-plant-0e8a52c10.2.azurestaticapps.net
 
-#project github repositary link:
+#project github repositary link:https://github.com/SVBADHIRI/badhiriProject.git
 
 #Azure technologies used for this project
 
